@@ -1,0 +1,60 @@
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\bin\Debug\Kreş Otomasyon.exe.config
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\bin\Debug\Kreş Otomasyon.exe
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\bin\Debug\Kreş Otomasyon.pdb
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.csprojAssemblyReference.cache
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.Properties.Resources.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.exe
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.pdb
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.DuyuruPaneli.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.GirisPaneli.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.PersonelGiris.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YoneticiGiris.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciDuyuruEkranı.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciGiris.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenGiris.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciPanel.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenPanel.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciDetay.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenDetay.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.Ogretmensifredegisimi.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.PersonelDetayEkranı.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YetkiliProjeEkrani.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YoneticiDetay.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.SinifPaneli.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.PersonelPaneli.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YoneticiDuyuruEkrani.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenDuyuruEkranı.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.AidatTakip.resources
+C:\Users\egeme\Desktop\c#\Kreş Otomasyon\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OkulDuyuruEkranı.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\bin\Debug\Kreş Otomasyon.exe.config
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\bin\Debug\Kreş Otomasyon.exe
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\bin\Debug\Kreş Otomasyon.pdb
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.csprojAssemblyReference.cache
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.AidatTakip.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.DuyuruPaneli.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.GirisPaneli.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenDuyuruEkranı.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.Ogretmensifredegisimi.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OkulDuyuruEkranı.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.PersonelDetayEkranı.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.PersonelGiris.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.PersonelPaneli.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.Properties.Resources.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.SinifPaneli.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YetkiliProjeEkrani.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YoneticiDetay.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YoneticiDuyuruEkrani.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.YoneticiGiris.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciDetay.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciDuyuruEkranı.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciGiris.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenDetay.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenGiris.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgrenciPanel.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş_Otomasyon.OgretmenPanel.resources
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.csproj.GenerateResource.cache
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.csproj.CoreCompileInputs.cache
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.exe
+D:\Çomü 3.sınıf\Egemen ATİLLA-170401026-Staj Ödevi\Egemen ATİLLA-170401026-Staj Ödevi Kreş Otomasyonu C#\Kreş Otomasyon\obj\Debug\Kreş Otomasyon.pdb
